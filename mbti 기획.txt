@@ -1,0 +1,54 @@
+2023.09.26
+주제: 남BTI + 선물
+
+신혜: 결과화면 UI
+희정: 팀명, 서비스명 생각하면서 컨셉도 좀 생각해볼수 있을거 같아요
+성완: 각 성격별 중심 키워드, 통일된 양식으로
+상현: 이미지 어떤 거 쓸지 생각해보기, 통일성있게 뽑아내는 방법으로
+
+앱명 후보(영어)
+InnoMind Creator
+personaliTech
+thinkType Develpers
+mindMerge Squad
+Insightful coders
+
+팀명 후보(영어)
+personacompare
+reflection
+미러링(mirroring)
+each other
+one another
+mbo(mbti by others)
+mbti by me
+MBTI MATCH
+personality puzzle
+mbti tracker
+mindset matcher
+-------------------------------------
+
+2023.09.27
+팀명: MergeS
+서비스명: MBTIology
+
+기획: 시험지 컨셉 https://www.figma.com/file/2hcL5XFuY2HTwr2YolU7rb/team4MBTI?type=design&node-id=1-30&mode=design&t=1VHiCt0xCQ8v7UTY-0
+
+스크립트:
+성격특성 정리 (@성완 내일까지)
+선물내용
+https://docs.google.com/spreadsheets/d/1bq49FFlc1NtaWbwEOoO90qpGOrcOK2BjLDCYCA3H9nc/edit#gid=0
+
+선물이미지
+https://www.freepik.com/search?format=search&last_filter=query&last_value=pill+3d&query=pill+3d&type=icon
+
+신혜: 레이아웃, 설계 - 패딩 등 여백, 폰트 설정, 필요 변수/상수 정리, 필요 위젯 정리
+희정: 테스트 문항/보기 번역, 정리, 선물패키지 팡 구현 방법
+성완: 유형별 특성, 선물 스크립트 정리
+상현: 선물 이미지 다운로드 (선물팡 구현가능한 패키지 찾기)
+-------------------------------------------------------------
+
+2023.10.04
+리더 & 관리(정리): 이신혜
+홈: 정성완
+문제: 도희정
+결과: 최상현
