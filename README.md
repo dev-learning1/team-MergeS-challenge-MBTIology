@@ -1,5 +1,7 @@
 # team-MergeS-challenge-MBTIology-
 
+9주 플러터 스나이퍼팩토리 첫 번째 팀 프로젝트
+
 ### 만든 사람들
 리더: 이신혜<br>
 HomeScreen: 정성완<br>
